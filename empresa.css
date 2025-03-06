@@ -1,0 +1,83 @@
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+li{
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    font-family: Arial,sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.historico{
+    border: 2px solid black; 
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 400px;
+    text-align: left;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+
+}
+
+
+.visao{
+    border: 2px solid black; 
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 400px;
+    text-align: left;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+
+.missao{
+    border: 2px solid black; 
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 400px;
+    text-align: left;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+
+.qualidade{
+    border: 2px solid black; 
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 400px;
+    text-align: left;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+
+.objetivo{
+    border: 2px solid black; 
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 400px;
+    text-align: left;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+
+.valores{
+    border: 2px solid black; 
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 400px;
+    text-align: left;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}

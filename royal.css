@@ -1,0 +1,29 @@
+.container {
+    display: flex; /* Side-by-side layout */
+    align-items: flex-start; /* Aligns items at the top */
+    gap: 10px; /* Space between image and text */
+    margin: 20px 0;
+    text-align: left;
+}
+
+.caracteristica {
+    text-align: left;
+    margin: 0;
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.royal {
+    height: 700px;
+    width: 700px;
+    object-fit: cover;
+    border: 2px solid #333;
+}
+
+.observacao {
+    font-size: 18px;
+    color: #333;
+    align-self: flex-start;
+    font-family: Arial, sans-serif;
+}
