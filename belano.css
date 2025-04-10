@@ -1,0 +1,40 @@
+.property-container {
+    display: flex; /* Ensures the image and list go side-by-side */
+    align-items: flex-start; /* Aligns them at the top */
+    gap: 10px; /* Adds space between the image and list */
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+}
+
+.bellano {
+    height: 700px;
+    width: 700px;
+    object-fit: cover; /* Ensures the image covers the space without distortion */
+    border: 2px solid #333;
+}
+
+.property-list {
+    text-align: left;
+    margin: 0;
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.caracteristica {
+    text-align: left;
+    margin: 0;
+    padding-left: 20px; /* Adjust bullet spacing */
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+
+h1{
+    text-align: center 20%;
+    gap: 30px;
+    font-family: Arial, sans-serif;
+}
+
+
+

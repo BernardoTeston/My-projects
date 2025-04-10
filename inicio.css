@@ -1,0 +1,52 @@
+h1{
+    font-size: 30px;
+    font-family: Arial, sans-serif;  
+}
+
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;    
+    font-size: 20px;
+}
+
+
+.slideshow-container {
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.slides {
+    display: none;
+    width: 1500px;
+    height: 600px;
+    object-fit: cover; 
+}
+
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px 20px;
+    font-size: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.3s;
+}
+
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+
+.prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
